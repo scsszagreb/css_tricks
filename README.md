@@ -8,7 +8,6 @@ Demos and slides for our 8th meetup [S(CSS)\_Zagreb meetup](https://www.meetup.c
 
   - Speaker: Danijel Pikutić
   - Description: Apply different styles based on the state of checkbox
-  - Duration: 20min
   - Resources:
     - [Slides](https://drive.google.com/file/d/1FjQUOEcGHy46c2bT3CWVTbhrUCqwm2JX/view?usp=sharing)
 
